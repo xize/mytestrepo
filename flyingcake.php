@@ -21,4 +21,4 @@ foreach($cakes as $cake) {
 	$text .= $cake;
 }
 
-echo $text;
+echo $text." I do another test again... and now again xD";
